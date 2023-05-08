@@ -1,5 +1,4 @@
 # Jamspace
-An app which focuses on providing a social listening experience to users.
 Jamspace is a novel social music listening platform designed to offer music enthusiasts a unique experience. Its key objective is to provide a simple and easily accessible way for people to discover music.
 
 ## Features
